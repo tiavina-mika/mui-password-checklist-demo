@@ -1,4 +1,4 @@
-import { Card, CardContent, Container, ThemeProvider, Typography, createTheme } from '@mui/material';
+import { Card, CardContent, ThemeProvider, Typography, createTheme } from '@mui/material';
 import PasswordChecklist from 'mui-password-checklist';
 import { ChangeEvent, useState } from 'react';
 
