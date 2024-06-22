@@ -1,5 +1,5 @@
 {
-  "name": "app-using-mui-password-strength-input",
+  "name": "app-using-mui-password-checklist",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,13 +8,13 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "clean-cache": "yarn cache clean --all",
-    "upgrade": "yarn add mui-password-strength-input@latest"
+    "upgrade": "yarn add mui-password-checklist@latest"
   },
   "dependencies": {
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.5",
     "@mui/material": "^5.15.2",
-    "mui-password-strength-input": "latest",
+    "mui-password-checklist": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
